@@ -14,7 +14,7 @@ public class suanhe {
             Thread.sleep(1000);
         }
         System.out.println(shiyidaoershi.getsum2());
-        System.out.println(yidaoshi.getsum1()+shiyidaoershi.getsum2());
+        System.out.println("运算结果"+(yidaoshi.getsum1()+shiyidaoershi.getsum2()));
     }
 
 }
